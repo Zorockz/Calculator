@@ -3,7 +3,7 @@ body{
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: aqua
+    background-color: rgb(255, 255, 255)
 }
 
 
@@ -16,11 +16,12 @@ body{
     overflow: hidden;
 }
 #display{
-    width: 100%;
-    padding: 100px;
+    width: 70%;
+    padding: 50px;
     font-size: 5rem;
     text-align:left;
     border: none;
+    color: black;
     background-color: rgb(238, 238, 238)
 }
 
